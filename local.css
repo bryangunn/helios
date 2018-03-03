@@ -1,0 +1,19 @@
+.thumbnail img {
+    height: 250px;
+    width: auto;
+}
+
+p.card-text-main {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p.card-text-sub {
+  font-size: 16px;
+
+}
+
+html {
+    background: url(earth.jpg) no-repeat center fixed;
+    background-size: cover;
+}
