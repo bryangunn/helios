@@ -14,6 +14,6 @@ p.card-text-sub {
 }
 
 html {
-    background: url(earth.jpg) no-repeat center fixed;
+    background: url(earth_with_logo.jpg) no-repeat top fixed;
     background-size: cover;
 }
