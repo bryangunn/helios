@@ -17,3 +17,16 @@ html {
     background: url(earth_with_logo.jpg) no-repeat top fixed;
     background-size: cover;
 }
+
+.bottom-left {
+    font-size: 18px;
+    position: absolute;
+    bottom: 80px;
+    left: 0px;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 30%;
+}
